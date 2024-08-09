@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, React, Wordpress... or anything [here](https://github.com/TechRam09/TechRam09/issues)**
 
-⚡ Fun fact **Writing Java code is like crafting with Lego blocks—every piece fits perfectly to build something amazing!**
+⚡ Fun fact **Writing Java code is like crafting with Lego blocks every piece fits perfectly to build something amazing!**
 
  </div>
  
