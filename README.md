@@ -3,8 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreeram+N+S!;" />
 </h1>
-
-<h3 align="center">A passionate Frontend Developer</h3>
+<div></div>
+<h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TechRam09.TechRam09" />
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
